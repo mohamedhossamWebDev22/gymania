@@ -66,6 +66,7 @@ body {
     }
 
     .linksMenu{
+      display: none;
       // height: 10px;
       background: $bg;
 
@@ -348,6 +349,7 @@ body {
       }
     }
     .linksMenu{
+      display: block;
       padding: 0 !important;
       margin: 0 !important;
       a{
